@@ -1,0 +1,72 @@
+DOCTYPE html>
+<html lang="es">
+
+<head>
+	<title>Tarea HTML de David Chocontá</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div class="flex-container">
+
+<div class="divClass">
+	<h1>David Chocontá</h1>
+	<h3>Henry</h3>
+	<h4>tarea de HTML / CSS</h4>
+</div>
+
+<div class="divClass">
+	<span id="spanId">Suspiro limeño </span>
+	<p>El suspiro limeño es el  postre peruano mas delicioso, consiste en Arequipe con crema de leche .
+		ines (27 sloc)  979 Bytes
+             
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<title>Tarea HTML de David Chocontá</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div class="flex-container">
+
+<div class="divClass">
+	<h1 David Chocontá</h1>
+	<h3>Henry</h3>
+	<h4>tarea de HTML / CSS</h4>
+</div>
+
+<div class="divClass">
+	<span id="spanId">Suspiro limeño</span>
+	<p>	<p>El suspiro limeño es el  postre peruano mas delicioso, consiste en Arequipe con crema de leche .
+	<a href="https://jaime-gourmet.com/" /">Restaurante  de comida Peruana" </a></p>	
+</div>
+
+<div id="thirdDiv">
+	<ul>
+		<li><img src="https://es.wikipedia.org/wiki/Suspiro_de_lime%C3%B1a#/media/Archivo:Suspiro_lime%C3%B1o."></li>
+		<li><img src="
+	</ul>
+</div>
+
+</div>
+
+</body>
+
+</html>/">Restaurante de  comida Peruana</a></p>	
+</div>
+
+<div id="thirdDiv">
+	<ul>
+		<li><img src=""></li>https://es.wikipedia.org/wiki/Suspiro_de_lime%C3%B1a#/media/Archivo:Suspiro_lime%C3%B1o.jpg
+	<li><img src="
+</div>
+
+</div>
+
+</body>
+
+</html>
